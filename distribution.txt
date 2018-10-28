@@ -1,0 +1,6 @@
+# This file contains address and amount that need to be distributed in Genesis block
+# when mainnet is started. The format will be address: amount for each line. The file
+# will be checked into the github and only append is allowed. Please ensure you don't
+# lose the wallet as nobody can recover the fund if the corresponding private key is
+# lost. Please beware that the amount is in taji
+# 00009de083827de896eba47ee0dbc95da065310c 10000
